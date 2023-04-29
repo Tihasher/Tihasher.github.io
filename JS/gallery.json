@@ -1,0 +1,48 @@
+[
+    {
+      "src": "Images/Img-01.png",
+      "alt": "Avalanche",
+      "caption": "This is the logo of Avalanche"
+    },
+    {
+        "src": "Images/Img-02.png",
+        "alt": "Litecoin",
+        "caption": "This is the logo of Litecoin"
+    },
+    {
+        "src": "Images/Img-03.png",
+        "alt": "Nevacoin",
+        "caption": "This is the logo of Nevacoin"
+    },
+    {
+        "src": "Images/Img-04.png",
+        "alt": "Stellar",
+        "caption": "This is the logo of Stellar"
+    },
+    {
+        "src": "Images/Img-05.png",
+        "alt": "Cosmos",
+        "caption": "This is the logo of Cosmos"
+      },
+      {
+          "src": "Images/Img-06.png",
+          "alt": "Solana",
+          "caption": "This is the logo of Solana"
+      },
+      {
+          "src": "Images/Img-07.png",
+          "alt": "Polygon",
+          "caption": "This is the logo of Polygon"
+      },
+      {
+          "src": "Images/Img-08.png",
+          "alt": "Tether",
+          "caption": "This is the logo of Tether"
+      },
+      {
+        "src": "Images/Img-09.png",
+        "alt": "CELO",
+        "caption": "This is the logo of CELO"
+    }     
+  ]
+  
